@@ -31,6 +31,4 @@
 
 ### 訪客
 ![](https://i.imgur.com/QhllquG.png)
-:::info
-前端頁面及操作說明請於[系統分析文件](https://github.com/monmon111222/AdvancedTEK_Intern/blob/master/Bonnie_SA.pdf)下載後瀏覽
-::::
+> - 前端頁面及操作說明請於[系統分析文件](https://github.com/monmon111222/AdvancedTEK_Intern/blob/master/Bonnie_SA.pdf)下載後瀏覽
